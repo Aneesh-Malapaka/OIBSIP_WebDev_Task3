@@ -27,6 +27,7 @@ body{
     border-radius: 20px;
     /* box-shadow: 0 2px 20px solid rgba(184, 178, 178, 0.7); */
     width:37em;
+    height:max-content;
 }
 
 .tasks{
